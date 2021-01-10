@@ -9,7 +9,7 @@ The purpose of the election audit analysis is to analyze the election results. T
 
 
 # Election Results
-![](Resources/Election_Results.png)
+![](Resources/Election_Results.PNG)
 
 Deliverable 1: The Election Results Printed to the Command Line
 Deliverable 2: The Election Results Saved to a Text File
