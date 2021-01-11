@@ -4,11 +4,12 @@
 
 The purpose of this project is to report and analyze the results of an election. Data was imported from a CSV file and analyzed using Python. In this analysis, I've taken a list of over 300,000 votes, and identified the candidate election winner, produced vote counts, and county turnouts. Below are the results.
 
-The following script was used in this analysis.
-![](Resources/Election_Results.PNG)
-![](Resources/Election_Results.PNG)
-![](Resources/Election_Results.PNG)
-![](Resources/Election_Results.PNG)
+The following Python script was used in this analysis.
+
+![](Resources/Election_Code_1.PNG)
+![](Resources/Election_Code_2.PNG)
+![](Resources/Election_Code_3.PNG)
+![](Resources/Election_Code_4.PNG)
 
 ## Election-Audit Results
 
@@ -31,4 +32,4 @@ Election-Audit Results:
 
 ## Election Audit Summary
 
-With only minor modifications, this Python script could be used to analyze the results of future elections. As long as the election results are availabe in a readable file, such as a CSV, the script could be amended to load and import the new file.
+With only minor modifications, this Python script could be used to analyze the results of future elections. As long as the election results are able to be converted to a readable file, such as a CSV, the script could be amended to load and import the new file.
