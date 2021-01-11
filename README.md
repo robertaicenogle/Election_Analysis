@@ -32,4 +32,4 @@ Election-Audit Results:
 
 ## Election Audit Summary
 
-With only minor modifications, this Python script could be used to analyze the results of future elections. As long as the election results are able to be converted to a readable file, such as a CSV, the script could be amended to load and import the new file.
+With only minor modifications, this Python script could be used to analyze the results of future elections. As long as the election results are able to be converted to a readable file, such as a CSV, the script could be amended to load and import the new file. The script could be modified to create a new list for state elections or national elections.
