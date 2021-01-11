@@ -8,23 +8,24 @@ The purpose of this project is to report and analyze the results of an election.
 ## Election-Audit Results
 
 ### Election Results Snapshot
+Here, is a snapshot of the output from Python.
 ![](Resources/Election_Results.PNG)
 
 Election-Audit Results:
-
-- How many votes were cast in this congressional election?
-- Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-- Which county had the largest number of votes?
-- Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-- Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-
-   *369,711
-  Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+- 369,711 votes were cast in this congressional election
+- County Votes:
+  - Jefferson: 10.5% (38,855)
+  - Denver: 82.8% (306,055)
+  - Arapahoe: 6.7% (24,801)
+- Denver County had the largest number of votes
+- A breakdown of the number of votes and the percentage of the total votes each candidate received is as follows:
+  - Charles Casper Stockham: 23.0% (85,213)
+  - Diana DeGette: 73.8% (272,892)
+  - Raymon Anthony Doane: 3.1% (11,606)
+- Diana DeGette won the election with 272,892 votes, 73.8% of the total vote
 
 
 ## Election Audit Summary
 
 There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script.
 
-
-Deliverable 3: A written Analysis of the Election Audit
