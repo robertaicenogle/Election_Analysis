@@ -1,6 +1,6 @@
-# Election_Analysis
+# PYTHON: Election Analysis
 
-## Overview of Election Analysis
+## Overview of use - Election Analysis
 
 The purpose of this project is to report and analyze the results of an election. Data was imported from a CSV file and analyzed using Python. In this analysis, I've taken a list of over 300,000 votes, and identified the candidate election winner, produced vote counts, and county turnouts. Below are the results.
 
